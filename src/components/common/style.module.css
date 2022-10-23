@@ -1,0 +1,11 @@
+.menu {
+  background-color: grey;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link {
+  padding: 10px;
+  border: 1px solid white;
+}
